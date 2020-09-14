@@ -1,0 +1,7 @@
+.idea
+project
+target
+movieWrappers.model
+word2vec.model
+src/main/resources/AllMoviesDetailsCleaned.csv
+src/main/resources/text8.txt
